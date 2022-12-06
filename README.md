@@ -1,6 +1,6 @@
 ## Olá eu sou Karen Regina de Jesus 
 
-- 💻 hoje trabalho como  Front-End 
+- 💻 hoje trabalho como Front-End 
 - 📖 estudando CSS | JavaScript | Lógicas de Programação
 - 👩🏾 Pronome: Ela / Dela 
 - 🎮 gamer nas horas vagas
